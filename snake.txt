@@ -8,3 +8,15 @@ TODO:
 -resetowanie gry przez przycisk
 - polepszenie randomizacji obiektów
 - poprawienie pojawiania się obiektów(czasem pojawiają się "w ogonie")
+
+SW1 - PB6
+SW2 - PB5
+SW3 - PB1
+SW4 - PB4
+BRIGHTNESS - PB0
+RESET -> PB7
+
+SPI1_MISO - PA6
+SPI1_MOSI - PA7
+CS - PA5
+SPI1_SCK-PA1
