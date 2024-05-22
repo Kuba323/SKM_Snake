@@ -1,0 +1,10 @@
+briht->	O		O
+
+		O		O
+	
+reset->	O		O
+
+TODO:
+-resetowanie gry przez przycisk
+- polepszenie randomizacji obiektów
+- poprawienie pojawiania się obiektów(czasem pojawiają się "w ogonie")
